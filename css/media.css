@@ -32,6 +32,12 @@
     .navbar-nav .nav-item{
         margin: 8px 0px;
     }
+    
+    .navbar-toggler-icon{
+     box-shadow: 0 2px 3px #fff;
+     border: 2px solid #fff;
+     border-radius: 5px;
+    }
     .home-img{
         width: 420px;
         margin-right: 0px;
