@@ -14,15 +14,15 @@
 
 @media(max-width:992px){
     .navbar{
-        background-color: white;
+        background-color: black;
     }
     .nav-item .nav-link{
-        color: black;
+        color: white;
         font-size: 17px;
         font-weight: 600;
     }
     .logo{
-        color: black !important;
+        color: white !important;
     }
     .navbar-nav{
         display: flex;
